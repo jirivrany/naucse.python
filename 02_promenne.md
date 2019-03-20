@@ -1,4 +1,7 @@
-Lekce 2 - proměnné
+# Lekce 2 - proměnné
+
+[![](http://img.youtube.com/vi/uzoLMv2brZk/0.jpg)](http://www.youtube.com/watch?v=uzoLMv2brZk "Lekce druhá")
+
 
 Ahoj já jsem Jirka Vraný a tohle je seriál nauč se Python. Druhý díl bude o
 proměnných.

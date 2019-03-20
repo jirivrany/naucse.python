@@ -1,5 +1,8 @@
 # Lekce 3 - rozhodování
 
+[![](http://img.youtube.com/vi/uYstFl621WE/0.jpg)](http://www.youtube.com/watch?v=uYstFl621WE "Lekce druhá")
+
+
 Ve třetím díle se podíváme na rozhodování. 
 
 V životě se rozhodujeme prakticky pořád. Často nevědomě - mozek to dělá tak
